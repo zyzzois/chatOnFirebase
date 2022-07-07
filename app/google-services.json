@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144415662183",
+    "firebase_url": "https://mychat-9a024-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-9a024",
+    "storage_bucket": "mychat-9a024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144415662183:android:a44997b5127716d715f4c2",
+        "android_client_info": {
+          "package_name": "com.octaneocatane.chatonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144415662183-dvg2qu8hi4t34b01himapk7djer11349.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvdsUTJEkqWkqIrzKpB-bk_w4CQwlWFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144415662183-dvg2qu8hi4t34b01himapk7djer11349.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
